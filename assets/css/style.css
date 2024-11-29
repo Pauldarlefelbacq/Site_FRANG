@@ -1,0 +1,15 @@
+a {
+    color: grey;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+a:hover {
+    color: blue;
+    text-decoration: none;
+}
+
+p {
+    font-size: 1.2em;
+    line-height: 1.5em;
+}
